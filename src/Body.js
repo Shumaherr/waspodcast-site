@@ -1,5 +1,5 @@
 import React from 'react';
-import PodcastPlayer from 'react-rss-podcast-player';
+import PodcastPlayer from '@mrpollard/react-rss-podcast-player';
 
 import logo from './logo.svg';
 import './App.css';
