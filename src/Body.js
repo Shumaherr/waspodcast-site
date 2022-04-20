@@ -7,7 +7,7 @@ import './App.css';
 function Body() {
     return (
         <div className="Body">
-            <PodcastPlayer url={'https://anchor.fm/s/174c6e24/podcast/rss'} />
+            <PodcastPlayer url={'https://cloud.mave.digital/37800'} />
         </div>
     );
 }
